@@ -2,8 +2,8 @@
 I'm third-year student of Computer Science at Poznan University of Technology
 
 #### Skills: 
-* PYTHON 
-* JAVA
+* Python 
+* Java
 * C++
 * Linux
 * JS
