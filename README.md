@@ -1,16 +1,16 @@
 ### Hi there 👋, I'm Bartłomiej Kowalewski
-I am a first-year student in the second degree of Computer Science at Poznan University of Technology
+I am a second-year student in the second degree of Computer Science at Poznan University of Technology
 
 #### Skills: 
-* Python 
-* Java
-* C++
-* Linux
-* JS
-* HTML
-* CSS
 * SQL
+* PL/SQL
+* Oracle Database
 * Oracle Apex
+* Databases
+* Linux
+* Python
+* Machine Learning
+* Java
 * Kotlin
 
 #### LinkedIn:
