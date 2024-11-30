@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Bartłomiej Kowalewski
-I am a second-year student in the second degree of Computer Science at Poznan University of Technology
+I am a MSc in Computer Science (Data Processing Technologies) at Poznan University of Technology.
 
 #### Skills: 
 * SQL
